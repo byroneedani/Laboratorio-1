@@ -1,0 +1,68 @@
+body{
+	background-image:url(imas/imagen0.jpg);
+	font-size:30px;
+	color:WhiteSmoke;
+	font-family:Comic Sans MS;
+	}
+#seccion1{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:LightSkyBlue;
+	background-color:Orange;
+	opacity:0.7;
+		}
+
+#seccion2{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:LightSkyBlue;
+	background-color:DarkBlue;
+}
+
+#seccion3{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:LightSkyBlue;
+	background-color:DarkBlue;
+}
+
+#seccion4{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:LightSkyBlue;
+	background-color:DarkGreen;
+}
+
+#seccion4{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:LightSkyBlue;
+	background-color:DarkGreen;
+}
+
+#seccion6{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:White;
+	background-color:Red;
+}
+	
+
+#mimarquesina{
+	font-family:Comic Sans MS;
+	color:skyblue;
+
+}
+
+#cuadro{
+	background-color:Black;
+	font:Comic Sans MS;
+	opacity:0.5;
+	
+}
